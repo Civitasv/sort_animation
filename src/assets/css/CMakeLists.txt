@@ -1,0 +1,1 @@
+configure_file(sort_animation.css ${EXECUTABLE_OUTPUT_PATH} COPYONLY)
